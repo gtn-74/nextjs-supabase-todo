@@ -95,3 +95,4 @@ Please file feedback and issues over on the [Supabase GitHub org](https://github
 ## Supabase
 
 SupabaseのサイトのProject Settings→APIにある、Project URLとAPI Keyをそれぞれ.env.localにコピペ
+https://note.com/libproc/n/n53c198d347d1
